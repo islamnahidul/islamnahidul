@@ -1,11 +1,10 @@
-### Hello, this is Nahid(@islamnahidul) from Vincit Oyj, Tampere Finland. Currently I'am working mosting exploring frontend web application development using React.js and typescript.
 
 ###
-Contact me:
+Hello, this is `Nahid` from `Vincit`, Tampere Finland. Currently I'am exploring the frontend web applications mostly using `React.js` and `Typescript`. I like to write poems in `Ruby`.
+Previously worked on `Ruby on Rails`, `Native android application` development, `SQL`(`Postgres` mostly), `Redis` etc.
+
+##
+Contact
+###
 Vincit Oyj
 Visiokatu 1, 33720, Tampere, Finland.
-
-<!---
-islamnahidul/islamnahidul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
