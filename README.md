@@ -4,7 +4,7 @@
 Hello, this is `Nahid` from `Vincit Oyj`, Tampere, Finland. 
 
 ##
-Technology Stack:
+##Technology Stack:
 
 * React
 * Typescript
@@ -14,7 +14,7 @@ Technology Stack:
 * Postgres
 
 ##
-Contact
+##Contact
 ###
 Vincit Oyj
 Visiokatu 1, 33720, Tampere, Finland.
