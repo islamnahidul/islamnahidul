@@ -1,11 +1,9 @@
 
-###
-
+## 🚀 About Me
 Hello, this is `Nahid` from `Vincit Oyj`, Tampere, Finland. 
 
-##
-##Technology Stack:
 
+## 🛠 Skills
 * React
 * Typescript
 * Next
