@@ -1,10 +1,17 @@
 
 ###
-Hello, this is `Nahid` from `Vincit Oyj`, Tampere, Finland. Currently I'am exploring the frontend web technologies mostly `React.js` and `Typescript`.
 
-I like to write poems in `Ruby`.
+Hello, this is `Nahid` from `Vincit Oyj`, Tampere, Finland. 
 
-Previously worked on `Ruby on Rails`, `Native android application` development, `SQL`(`Postgres` mostly), `Redis` etc.
+##
+Technology Stack:
+
+* React
+* Typescript
+* Next
+* Ruby on Rails
+* Redis
+* Postgres
 
 ##
 Contact
