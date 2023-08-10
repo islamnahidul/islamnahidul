@@ -3,11 +3,12 @@
 Hello, this is `Nahid` from `Vincit Oyj`, Tampere, Finland. 
 
 
-## 🛠 Skills
-* React
+## 🛠 Current Technology Stack
+* ReactJS
 * Typescript
-* Next
+* NextJS
 * Ruby on Rails
+* NodeJS
 * Redis
 * Postgres
 
